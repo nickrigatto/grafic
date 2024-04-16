@@ -1,2 +1,0 @@
-# grafic
-grafico.html
